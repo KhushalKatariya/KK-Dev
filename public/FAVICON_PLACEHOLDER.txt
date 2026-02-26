@@ -1,0 +1,30 @@
+FAVICON IMAGES PLACEHOLDER
+
+The following image files should be placed in this public/ folder:
+
+Required Files:
+- favicon.ico (16x16, 32x32, 48x48 ICO format)
+- favicon-16x16.png
+- favicon-32x32.png  
+- apple-touch-icon.png (180x180)
+- logo192.png (192x192)
+- logo512.png (512x512)
+
+HOW TO CREATE THEM:
+
+Option 1 - Use Online Generator (EASIEST):
+1. Go to https://favicon.io/favicon-converter/
+2. Upload the favicon.svg file from this folder
+3. Download the generated package
+4. Extract and place all files here
+
+Option 2 - Use Canva:
+1. Create a 512x512 design in Canva
+2. Export as PNG
+3. Use https://favicon.io to convert to all sizes
+
+Option 3 - Already Have Images:
+Just place your PNG/ICO files here with the exact names above.
+
+The favicon.svg file is already included and works in modern browsers!
+For maximum compatibility, generate the PNG/ICO versions.
